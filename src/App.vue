@@ -2,7 +2,7 @@
   <h1>{{ title }}</h1>
   <input type="text" ref="name" />
   <button @click="handleClick">click me</button>
-  <Modal />
+  <Modal header="Sign up for the giveaway" text="Grab your swag" />
 </template>
 
 <script>
