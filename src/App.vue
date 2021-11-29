@@ -14,8 +14,8 @@
   </div>
   <div v-if="showModalTwo">
     <Modal @close="toggleModalTwo">
-      <p>Modal 2</p>
-      <p>Second Modal</p>
+      <h1>Sign up to the Newsletter</h1>
+      <p>For updates and promo codes!</p>
     </Modal>
   </div>
   <br />
