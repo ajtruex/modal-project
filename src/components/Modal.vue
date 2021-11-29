@@ -26,9 +26,12 @@ export default {};
   width: 100%;
   height: 100%;
 }
-h1 {
+.modal h1 {
   color: #03cfb4;
   border: none;
   padding: 0;
+}
+.modal p {
+  font-style: normal;
 }
 </style>
